@@ -5,6 +5,8 @@ simple scripts for monitoring the health of LAN servers
 - **`sudo pacman -S lua`**
 - **`nano macro.lua`**
 - **`lua myscript.lua`**
+
 .. или ..
+
 - **`chmod +x macro.lua`**
 - **`./macro.lua`**
